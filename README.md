@@ -2,14 +2,14 @@
 
 ![](img.png)  
 
-- [BrokenLinkCheck.sh](#brokenlinkchecksh)   
-- [CORSMisconfig.sh](#corsmisconfigsh)    
-- [CheckWildCard.sh](#checkwildcardsh)   
-- [DirBruteffuf.sh](#dirbruteffufsh)   
-- [HostHeaderInjection.sh](#hostheaderinjectionsh)   
-- [NucleiRecon.sh](#nucleireconsh)   
-- [ServiceRecon.sh](#servicereconsh)    
-- [CheckDNS.sh](#checkdnssh)    
+- [__BrokenLinkCheck.sh__](#brokenlinkchecksh)   
+- [__CORSMisconfig.sh__](#corsmisconfigsh)    
+- [__CheckWildCard.sh__](#checkwildcardsh)   
+- [__DirBruteffuf.sh__](#dirbruteffufsh)   
+- [__HostHeaderInjection.sh__](#hostheaderinjectionsh)   
+- [__NucleiRecon.sh__](#nucleireconsh)   
+- [__ServiceRecon.sh__](#servicereconsh)    
+- [__CheckDNS.sh__](#checkdnssh)    
 
 ## [BrokenLinkCheck.sh](BrokenLinkCheck.sh)   
 
